@@ -8,8 +8,11 @@ But still, as I was just into the astronomy data for 1.5 yr then, it seems a ver
 
 Thus I write these PSF fit/substract code.
 
-#Algorithm
+#PPT of this project is uploaded. Any comments are welcome.
 
+
+Algorithm
+---
 0, CFHT U band source detection
 
 1, CFHT U and GALEX FUV/NUV PSF generate
